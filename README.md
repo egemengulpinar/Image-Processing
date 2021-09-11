@@ -1,4 +1,4 @@
-# Image Processing Basic Workouts
+# Image Processing Basic Exercises
 
 It was prepared with different approaches to Image Processing.
 Few examples are included in this repo, these are following below:
