@@ -50,7 +50,7 @@ images are processed. Zero is the least significant bit(LSB) and 7 is the most s
 ## Applying Gaussian Lowpass Filter on Image
 It was applied Gaussian Lowpass Filter from the input image.![Logo](https://www.linkpicture.com/q/CodeCogsEqn-2_1.gif)
 In `MATLAB` have already function for filter and calculate automaticly.
-`fspecial('gaussian',688,x);` code block perform this operation. *( 'x' is sigma value, I was changed this value to compare the results.)*
+`fspecial('gaussian',688,x);` code block perform this operation. *( **'x'** is sigma value, I was changed this value to compare the results.)*
 
 
 
