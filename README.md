@@ -3,12 +3,12 @@
 It was prepared with different approaches to Image Processing.
 Few examples are included in this repo, these are following below:
 
-- Making Triangle and Merge Them
-- Drawing line at end of the corner on example picture 
-- Changing Intensity on Image
-- Bit-Plane Slicing on Image
-- Applying Gaussian Lowpass Filter on Image
-- Applying 2D Fourier Transform and compare the results(*Original Image, Spectrum, Centered Spectrum, Decentralized, Processed Image*)
+- Making Triangle and Merge Them ( `Triangle_and_merge.m`)
+- Drawing line at end of the corner on example picture (` Drawing_line_end_of_the_corner.m`)
+- Changing Intensity on Image (`Changing Intensity on Image.m`)
+- Bit-Plane Slicing on Image (`Bit_Plane_Slicing.m`)
+- Applying Gaussian Lowpass Filter on Image(Applying Gaussian Lowpass Filter.m`)
+- Applying 2D Fourier Transform and compare the results(*Original Image, Spectrum, Centered Spectrum, Decentralized, Processed Image*) (`2D Fourier Transform.py`)
 
 
 
