@@ -89,7 +89,7 @@ Clone the project
 
 Open `MATLAB` for .m files, `Spyder` for (python file)  and import all project files.
 
-It can be executed to  displaying results.
+It can be executed to who want to displaying results
 
 
 
