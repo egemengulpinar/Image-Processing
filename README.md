@@ -41,8 +41,14 @@ The ***C*** value have changed every iteration, each iteration results have disp
 
 
 ## Bit-Plane Slicing on Image
-Slicing the image at different planes(bit-planes) plays an important role in image processing. 8-bit per pixel
-images are processed. Zero is the least significant bit(LSB) and 7 is the most significant bit(MSB)
+Slicing the image at different planes(bit-planes) plays an important role in image processing. ![Logo](https://www.linkpicture.com/q/bit_planes.jpg)
+
+
+8-bit per pixel images have processed. Zero is the least significant bit(LSB) and 7 is the most significant bit(MSB)
+
+
+
+
 ![Logo](https://www.linkpicture.com/q/result_compare_image_bit_plane_2.jpg)
 
 
