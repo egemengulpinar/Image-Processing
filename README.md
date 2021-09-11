@@ -8,7 +8,8 @@ Few examples are included in this repo, these are following below:
 - Changing Intensity on Image (`Changing Intensity on Image.m`)
 - Bit-Plane Slicing on Image (`Bit_Plane_Slicing.m`)
 - Applying Gaussian Lowpass Filter on Image(Applying Gaussian Lowpass Filter.m`)
-- Applying 2D Fourier Transform and compare the results(*Original Image, Spectrum, Centered Spectrum, Decentralized, Processed Image*) (`2D Fourier Transform.py`)
+- Applying 2D Fourier Transform and compare the results(*Original Image, Spectrum, Centered Spectrum, Decentralized, Processed Image*) 
+  (`2D Fourier Transform.py`)
 
 
 
