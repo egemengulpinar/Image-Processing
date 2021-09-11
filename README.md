@@ -60,9 +60,9 @@ In `MATLAB` have already function for filter and calculate automaticly.
 
 ## Applying 2D Fourier Transform and Compare The Results(*Original Image, Spectrum, Centered Spectrum, Decentralized, Processed Image*)
 
-It was applied 2D Fourier Transform from the input image. I was performed this operation in `python`,
+It was applied 2D Fourier Transform from the input image. ![Logo](https://www.linkpicture.com/q/CodeCogsEqn-3.gif)
+I was performed this operation in `python`,
 because of `numpy.fft.fft2 ` ***Fast Fourier Transform(FFT)*** libraries function.
-![Logo](https://www.linkpicture.com/q/CodeCogsEqn-3.gif)
 Then, computed and displayed:
 Spectrum
 - Spectrum
