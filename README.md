@@ -4,7 +4,7 @@ It was prepared with different approaches to Image Processing.
 Few examples are included in this repo, these are following below:
 
 - Making Triangle and Merge Them ( `Triangle_and_merge.m`)
-- Drawing line at end of the corner on example picture (` Drawing_line_end_of_the_corner.m`)
+- Drawing Line at The Corner on Input Image (` Drawing_line_end_of_the_corner.m`)
 - Changing Intensity on Image (`Changing Intensity on Image.m`)
 - Bit-Plane Slicing on Image (`Bit_Plane_Slicing.m`)
 - Applying Gaussian Lowpass Filter on Image(`Applying Gaussian Lowpass Filter.m`)
