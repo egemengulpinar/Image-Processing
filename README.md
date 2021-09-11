@@ -49,6 +49,7 @@ images are processed. Zero is the least significant bit(LSB) and 7 is the most s
 
 ## Applying Gaussian Lowpass Filter on Image
 It was applied Gaussian Lowpass Filter from the input image.![Logo](https://www.linkpicture.com/q/CodeCogsEqn-2_1.gif)
+
 In `MATLAB` have already function for filter and calculate automaticly.
 `fspecial('gaussian',688,x);` code block perform this operation. *( **'x'** is sigma value, I was changed this value to compare the results.)*
 
@@ -60,7 +61,8 @@ In `MATLAB` have already function for filter and calculate automaticly.
 
 ## Applying 2D Fourier Transform and Compare The Results(*Original Image, Spectrum, Centered Spectrum, Decentralized, Processed Image*)
 
-It was applied 2D Fourier Transform from the input image. ![Logo](https://www.linkpicture.com/q/CodeCogsEqn-3.gif)
+It was applied 2D Fourier Transform from the input image.  ![Logo](https://www.linkpicture.com/q/CodeCogsEqn-3.gif)
+
 I was performed this operation in `python`,
 because of `numpy.fft.fft2 ` ***Fast Fourier Transform(FFT)*** libraries function.
 Then, computed and displayed:
