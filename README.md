@@ -34,6 +34,7 @@ Few examples are included in this repo, these are following below:
 We are changing the instensity using with ![Logo](https://www.linkpicture.com/q/CodeCogsEqn-1.gif) matematical operation.
 First, executed the MATLAB function ***rgb2gray*** from input image, then I have converted the gray image to double. Then I was performed the operation.
 The ***C*** value have changed every iteration, each iteration results have displayed.
+
 **Original Image**
 ![Logo](https://www.linkpicture.com/q/balloons.jpg)
 
