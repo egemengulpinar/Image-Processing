@@ -36,6 +36,7 @@ First, executed the MATLAB function ***rgb2gray*** from input image, then I have
 The ***C*** value have changed every iteration, each iteration results have displayed.
 
 **Original Image**
+
 ![Logo](https://www.linkpicture.com/q/balloons.jpg)
 
 
